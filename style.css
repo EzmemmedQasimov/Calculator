@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(#9156e1, #ff9768);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container {
+    max-width: 1100px !important;
+}
+
+#calc {
+    max-width: 370px;
+    margin: auto;
+    transform: translate(0, 5%);
+}
+
+#cavab {
+    background-color: #212121;
+    height: 140px;
+    border-radius: 5px 5px 0 0;
+}
+
+.row div button {
+    width: 93px !important;
+    height: 90px;
+    border: none;
+    font-size: 23px;
+    line-height: 70px;
+    color: #212121;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.col-3, .col-6 {
+    padding: 0 !important;
+}
+
+#faiz {
+    background-color: #fdfdfd;
+}
+
+#isare {
+    background-color: #f3f3f3;
+}
+
+#sil {
+    background-color: #fdfdfd;
+}
+
+#bolme {
+    color: #fff;
+    background-color: #9156e1;
+}
+
+#reqem7 {
+    background-color: #f3f3f3;
+}
+
+#reqem8 {
+    background-color: #fdfdfd;
+}
+
+#reqem9 {
+    background-color: #f3f3f3;
+}
+
+#vurma {
+    color: #fff;
+    background-color: #8d52dd;
+}
+
+#reqem4 {
+    background-color: #fdfdfd;
+}
+
+#eded1 {
+    font-size: 18px;
+    color: #d98192;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: right;
+    margin-top: 10px;
+}
+
+#eded2 {
+    float: right;
+    color: #fff;
+    font-size: 36px;
+    color: #ffffff;
+    font-family: "Lato";
+    font-weight: 300;
+    text-align: right;
+}
+
+#reqem5 {
+    background-color: #f3f3f3;
+}
+
+#reqem6 {
+    background-color: #fdfdfd;
+}
+
+#cixma {
+    color: #fff;
+    background-color: #894ed9;
+}
+
+#reqem1 {
+    background-color: #f3f3f3;
+}
+
+#reqem2 {
+    background-color: #fdfdfd;
+}
+
+#reqem3 {
+    background-color: #f3f3f3;
+}
+
+#toplama {
+    color: #fff;
+    background-color: #8547d9;
+}
+
+#reqem0 {
+    border-radius: 0 0 0 5px;
+    background-color: #fdfdfd;
+}
+
+#vergul {
+    background-color: #f3f3f3;
+}
+
+#beraber {
+    color: #fff;
+    border-radius: 0 0 5px 0;
+    background-color: #e62f89;
+    width: 186px !important;
+}
